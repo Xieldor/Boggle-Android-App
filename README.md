@@ -2,7 +2,7 @@
 
 **Authors:**
 
-**Team123: Wenyan Du, Rakesh Jeyaraman, Tianfang Xie**
+**Team123: Tianfang Xie, Wenyan Du, Rakesh Jeyaraman**
 
 ## 1 Introduction
 
